@@ -54,3 +54,9 @@ A list of resources relevant to engineering management, resources to share with 
 ## Videos
 
 - [Why work doesn't happen at work](https://www.ted.com/talks/jason_fried_why_work_doesn_t_happen_at_work) by Jason Fried
+
+
+## To organize
+
+- https://staffeng.com/
+- https://www.reddit.com/r/ExperiencedDevs/comments/1goehcy/principal_engineers_what_does_your_day_look_like/
